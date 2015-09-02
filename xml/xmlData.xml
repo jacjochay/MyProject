@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BanHang>
+	<DonHang>
+		<NgayDatHang>2015-08-22</NgayDatHang>
+		<TenKH>Đoàn Văn Phong</TenKH>
+		<NoiDung>
+			<MaSP>1</MaSP>
+			<SoLuong>10</SoLuong>
+			<DonGia>250000</DonGia>
+		</NoiDung>
+		<NoiDung>
+			<MaSP>2</MaSP>
+			<SoLuong>25</SoLuong>
+			<DonGia>300000</DonGia>
+		</NoiDung>
+
+	</DonHang>
+	<DonHang>
+		<NgayDatHang>22-08-2015</NgayDatHang>
+		<TenKH>Đoàn Minh Khoa</TenKH>
+		<NoiDung>
+			<MaSP>15</MaSP>
+			<SoLuong>20</SoLuong>
+			<DonGia>300000</DonGia>
+		</NoiDung>
+		<NoiDung>
+			<MaSP>30</MaSP>
+			<SoLuong>2</SoLuong>
+			<DonGia>60000</DonGia>
+		</NoiDung>
+	</DonHang>
+</BanHang>
